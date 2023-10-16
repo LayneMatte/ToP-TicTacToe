@@ -1,0 +1,17 @@
+Create modules that can be used within the game controller 
+Create a module that builds 2d array 
+Create a module that will add a token to a spot but first check what spots are available 
+    - also give this module the ability to print a board with cell values 
+Create module that will control the flow of the game and put players within that module 
+
+Tic Tac Toe 
+    - 2d array 3x3 grid = 9squares 
+    - 2 players - one has an X token, the other has a O token 
+    - all cells are empty at beginning 
+    - First player inputs their token 
+    - players switch off inputting their token into the grid 
+    - when one player ends up with 3 in a row (up, down, left, right, or diagonal) they win. 
+
+- Gameboard creation needs to be an object 
+- Players need to be an object 
+- 
